@@ -1,0 +1,34 @@
+# Third-party dependencies (cloned repos)
+ComfyUI/
+stable-diffusion-webui/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environments
+venv/
+.venv/
+env/
+.env/
+
+# Generated images
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.webp
+
+# Environment variables
+.env
+.env.local
+
+# macOS
+.DS_Store
